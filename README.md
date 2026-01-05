@@ -1,10 +1,12 @@
 # Local Task Management App
 
-<img width="801" height="621" alt="image" src="https://github.com/user-attachments/assets/43c34a11-67e0-466f-abb2-fd19c185f6f2" />
-<img width="756" height="637" alt="image" src="https://github.com/user-attachments/assets/a11efdda-72be-4d77-8e8a-a7fcd530f588" />
+Live demo: https://task-tracker-chi-steel.vercel.app
 
 A small but production-minded task management application built with React and TypeScript.
 The focus of this project is maintainable component structure, predictable state management, accessibility, and testable user flows rather than feature volume.
+
+<img width="801" height="621" alt="image" src="https://github.com/user-attachments/assets/43c34a11-67e0-466f-abb2-fd19c185f6f2" />
+<img width="756" height="637" alt="image" src="https://github.com/user-attachments/assets/a11efdda-72be-4d77-8e8a-a7fcd530f588" />
 
 ## Core Functionality
 
